@@ -1,0 +1,25 @@
+p::first-line{
+    
+    text-decoration: underline;
+}
+p::first-line{
+    background-color: aqua;
+    color:blue;
+}
+p::after{
+    content:url("😃");
+    
+}
+p::before{
+    content:url()
+}
+li::marker{
+    color:orangered;
+}
+ul{
+    list-style:square;
+}
+p::selection{
+    background-color: blue;
+    color:red;
+}

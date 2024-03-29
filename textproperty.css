@@ -1,0 +1,14 @@
+p{
+    color:blueviolet;
+    text-align:right;
+    text-indent: 300px;
+    text-decoration:underline;
+    text-transform: capitalize;
+    text-decoration-style: wavy;
+    text-decoration-color: brown;
+
+}
+h1{
+    text-align:center;
+    text-shadow: 10px 10px 5px red;
+}

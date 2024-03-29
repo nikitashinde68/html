@@ -1,0 +1,28 @@
+p:first-child{
+    color:aquamarine;
+}
+p:last-child{
+    color:brown;
+}
+p:first-of-type{
+    background-color: pink;
+}
+p:last-of-type{
+    background-color:grey
+}
+p:hover{
+    color:blue;
+    background-color: pink;
+}
+p:nth-child(2){
+    background-color:red;
+}
+a:link{
+    color:blue;
+}
+a:visited{
+    color:purple;
+}
+a:active{
+    color:aqua;
+}

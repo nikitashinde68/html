@@ -1,0 +1,22 @@
+div.a {
+    font-size: 15px;
+  }
+  
+  div.b {
+    font-size: large;
+  }
+  
+  div.c {
+    font-size: 150%;
+  }
+  
+ p{
+    font-style: italic;
+    font-variant: small-caps;
+    font-weight:bold;
+    font-family:'Times New Roman', Times, serif;
+    background:url("./image.jpg");
+  }
+  
+  
+  
